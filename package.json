@@ -2,7 +2,7 @@
   "name": "vue-resume",
   "version": "1.0.0",
   "description": "A Vue.js project",
-  "author": "",
+  "author": "xfz",
   "private": true,
   "scripts": {
     "dev": "node build/dev-server.js",
